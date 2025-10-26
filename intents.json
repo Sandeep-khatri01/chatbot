@@ -67,8 +67,8 @@
       "tag": "contact",
       "patterns": ["Where are you located?", "What is your address?", "How can I contact you?", "Contact details", "Location", "Address"],
       "responses": [
-        "You can visit us at [Your Address Here] or call us at [Your Phone Number].",
-        "Our main office is located at [Your Address Here]."
+        "You can visit us at Jaipur or call us at 123456789690.",
+        "Our main office is located at Jaipur."
       ]
     }
   ]
