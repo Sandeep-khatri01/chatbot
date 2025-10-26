@@ -1,7 +1,4 @@
-# Python cache
 __pycache__/
 *.pyc
-
-# Virtual environment folder
 venv/
 .venv/
