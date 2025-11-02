@@ -21,8 +21,8 @@ An intelligent AI-powered chatbot to help students with college-related queries.
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/college-support-chatbot.git
-cd college-support-chatbot
+git clone https://github.com/Sandeep-khatri01/chatbot.git
+cd chatbot
 
 # Install dependencies
 pip install -r requirements.txt
@@ -80,7 +80,6 @@ college-support-chatbot/
 ├── chatbot_cli.py          # Command-line interface
 ├── requirements.txt        # Python dependencies
 ├── README.md               # This file
-├── LICENSE                 # MIT License
 └── screenshots/            # Application screenshots
 ```
 
