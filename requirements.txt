@@ -1,0 +1,15 @@
+# College Support Chatbot - Dependencies
+# Python Version Required: 3.7+
+
+# Core AI/ML Libraries
+transformers==4.35.2
+torch==2.1.0
+tokenizers==0.15.0
+
+# Additional Dependencies
+numpy>=1.24.0
+sentencepiece>=0.1.99
+protobuf>=3.20.0
+
+# Note: Tkinter comes pre-installed with Python
+# If missing on Linux, install with: sudo apt-get install python3-tk
