@@ -103,10 +103,10 @@ User Query → Keyword Match → Found? → Knowledge Base Answer
 ## 📸 Screenshots
 
 ### Main Interface
-![Screenshot](screenshots/Screenshot 2025-11-03 010832.png)
+![Screenshot](screenshots/Screenshot%202025-11-03%20010832.png)
 
 ### Chat Example
-![Screenshot](screenshots/Screenshot 2025-11-03 010737.png)
+![Screenshot](screenshots/Screenshot%202025-11-03%20010737.png)
 
 ---
 
