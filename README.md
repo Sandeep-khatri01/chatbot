@@ -106,7 +106,7 @@ User Query → Keyword Match → Found? → Knowledge Base Answer
 ![GUI Interface](screenshots/gui_interface.png)
 
 ### Chat Example
-![Chat Example](screenshots/chat_example.png)
+![Chat Example](screenshots/Screenshot 2025-11-03 010737.png)
 
 ---
 
