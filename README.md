@@ -4,8 +4,6 @@ An intelligent AI-powered chatbot to help students with college-related queries.
 
 [![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://www.python.org/)
 [![HuggingFace](https://img.shields.io/badge/🤗-Transformers-yellow.svg)](https://huggingface.co/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-
 
 ---
 
